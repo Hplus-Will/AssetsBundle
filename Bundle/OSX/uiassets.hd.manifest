@@ -1,0 +1,18 @@
+ManifestFileVersion: 0
+CRC: 4215103737
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 1d1e932558afd4cfd9c9b58b56a65fbe
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 75957c18d05791510cbdd301a328d69f
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/UI/HD/background.jpg
+Dependencies: []

@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: uiassets.ud
+      Dependencies: {}
+    Info_1:
+      Name: scenes/title
+      Dependencies:
+        Dependency_0: uiassets.hd
+    Info_2:
+      Name: uiassets.hd
+      Dependencies: {}
+    Info_3:
+      Name: scenes/main
+      Dependencies:
+        Dependency_0: cube
+    Info_4:
+      Name: cube
+      Dependencies: {}

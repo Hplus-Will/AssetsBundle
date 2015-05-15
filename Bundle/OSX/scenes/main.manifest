@@ -1,0 +1,59 @@
+ManifestFileVersion: 0
+CRC: 3247456315
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ef1014497109fba0f34783d8f81c873c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: bae752e40470fd3e12cb2a0ba6c15fb8
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 20
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 81
+  Script: {instanceID: 0}
+- Class: 92
+  Script: {instanceID: 0}
+- Class: 104
+  Script: {instanceID: 0}
+- Class: 108
+  Script: {instanceID: 0}
+- Class: 111
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 417d5f08c952e4f4195f98ddb267df06, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: dfcced7931cb13a4c9142dfab9232c0d, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 124
+  Script: {instanceID: 0}
+- Class: 127
+  Script: {instanceID: 0}
+- Class: 135
+  Script: {instanceID: 0}
+- Class: 157
+  Script: {instanceID: 0}
+Assets:
+- Assets/Scenes/main.unity
+Dependencies:
+- /Users/Hplustech_Will/Desktop/ModelLoader/Bundle/OSX/cube
