@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 3247456315
+CRC: 3732088397
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: ef1014497109fba0f34783d8f81c873c
+    Hash: 6f12792b9ec7b40c044ed1c8b6292c4b
   TypeTreeHash:
     serializedVersion: 2
     Hash: bae752e40470fd3e12cb2a0ba6c15fb8
@@ -56,4 +56,4 @@ ClassTypes:
 Assets:
 - Assets/Scenes/main.unity
 Dependencies:
-- /Users/Hplustech_Will/Desktop/ModelLoader/Bundle/OSX/cube
+- /Users/Hplustech_Will/Desktop/AssetBundle/Bundle/OSX/cube

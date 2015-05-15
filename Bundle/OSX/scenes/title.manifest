@@ -1,12 +1,12 @@
 ManifestFileVersion: 0
-CRC: 2714364025
+CRC: 1296891269
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 1563c2ceebf480d75524132943758241
+    Hash: 9d5c38643cfa44153b72b2c066cf2084
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 8652148121ca674dbcf6f65105138e86
+    Hash: 5cab95dec8e732f4aaab2d044ad17b5b
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -24,17 +24,17 @@ ClassTypes:
 - Class: 104
   Script: {instanceID: 0}
 - Class: 114
+  Script: {fileID: 1980459831, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
   Script: {fileID: -619905303, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
-- Class: 114
-  Script: {fileID: 1077351063, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
-- Class: 114
-  Script: {fileID: 1997211142, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
 - Class: 114
   Script: {fileID: 1301386320, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
 - Class: 114
   Script: {fileID: -765806418, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
 - Class: 114
-  Script: {fileID: 1980459831, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+  Script: {fileID: 1077351063, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: 1997211142, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
 - Class: 115
   Script: {instanceID: 0}
 - Class: 127
@@ -54,4 +54,4 @@ ClassTypes:
 Assets:
 - Assets/Scenes/Title.unity
 Dependencies:
-- /Users/Hplustech_Will/Desktop/ModelLoader/Bundle/OSX/uiassets.hd
+- /Users/Hplustech_Will/Desktop/AssetBundle/Bundle/OSX/uiassets.hd
